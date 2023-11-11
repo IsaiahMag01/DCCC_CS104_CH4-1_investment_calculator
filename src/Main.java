@@ -1,3 +1,9 @@
+/**
+ * Write a program using a while loop which calculates the ending balance after placing money in an investment account with an interest rate of five percent aswell as how long it took to reach that balance
+ * @author (isaiahm)
+ *
+ * Main.java
+ */
 public class Main {
     /**
      * Main Method to run program
