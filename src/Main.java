@@ -5,7 +5,7 @@ public class Main {
      */
     public static void main(String[] args) {
         final double RATE = 0.05;   //The rate is fixed and should never change in the program itself
-        final double TARGET = 0.05; //Terminator for the program
+        final double TARGET = 20_000; //Terminator for the program
         double balance = 10_000;
         int year = 0;
 
