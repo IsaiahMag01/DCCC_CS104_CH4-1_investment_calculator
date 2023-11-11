@@ -1,7 +1,6 @@
 public class Main {
     /**
      * Main Method to run program
-     * @param main
      */
     public static void main(String[] args) {
         final double RATE = 0.05;   //The rate is fixed and should never change in the program itself
