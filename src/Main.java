@@ -14,7 +14,7 @@ public class Main {
             balance = balance + interest;
         }
 
-        System.out.println("Within " + year + " year(s) you will have a balance of " + balance + " dollars");
+        System.out.printf("Within %d year(s) you will have a balance of %8.2f dollars", year, balance);
 
     }
 }
